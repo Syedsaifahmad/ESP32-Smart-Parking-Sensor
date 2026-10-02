@@ -27,6 +27,10 @@ The ESP32 processes the distance and indicates the parking status using an LED a
 - Breadboard
 - Jumper wires
 
+## Project Hardware
+
+![ESP32 Smart Parking Sensor](project-photo.jpg)
+
 ## Pin Connections
 
 | Component | Pin | ESP32 |
@@ -56,10 +60,6 @@ The ESP32 processes the distance and indicates the parking status using an LED a
 - GPIO programming
 - Serial communication
 - Basic timer handling using millis()
-
-## Project Hardware
-
-![ESP32 Smart Parking Sensor](project-photo.jpg)
 
 ## Future Improvements
 
