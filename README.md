@@ -57,6 +57,10 @@ The ESP32 processes the distance and indicates the parking status using an LED a
 - Serial communication
 - Basic timer handling using millis()
 
+## Project Hardware
+
+![ESP32 Smart Parking Sensor](project-photo.jpg)
+
 ## Future Improvements
 
 - OLED display
